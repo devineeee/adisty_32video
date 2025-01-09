@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "adistydidis095@gmail.com",
+      "name": "Adisty Nurharumandari",
+      "bidang": "Informatika"
+    },
+    {
+      "id": "dd2d",
+      "Nama": "Heisa",
+      "Email": "Heisha@gmail.com",
+      "Bidang": "kasir"
+    },
+    {
+      "id": "564e",
+      "Nama": "aster",
+      "Email": "asteria@gmail.com",
+      "Bidang": "Software"
+    },
+    {
+      "id": "10f2",
+      "Nama": "HeYu",
+      "Email": "Heyuuhu@gmail.com",
+      "Bidang": "SoftwareEnginers"
+    },
+    {
+      "id": "e414",
+      "Nama": "ddf",
+      "Email": "fsf",
+      "Bidang": "sfj"
+    },
+    {
+      "id": "3783",
+      "Nama": "dajdakij",
+      "Email": "daa",
+      "Bidang": "sadd"
+    },
+    {
+      "id": "8513",
+      "Nama": "cupen",
+      "Email": "cupen@gmail.com",
+      "Bidang": "FrontEnd"
+    },
+    {
+      "id": "94f2",
+      "Nama": "jedjj",
+      "Email": "djdj",
+      "Bidang": "shjs"
+    },
+    {
+      "id": "e4d8",
+      "Nama": "jdjj",
+      "Email": "ujdju",
+      "Bidang": "djuu"
+    },
+    {
+      "id": "664a",
+      "Nama": "devine",
+      "Email": "devine",
+      "Bidang": "UI"
+    }
+  ]
+}
